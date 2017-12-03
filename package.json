@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ayachi-code/javascript-ReactJS/issues"
   },
-  "homepage": "https://github.com/ayachi-code/javascript-ReactJS#readme"
+  "homepage": "https://github.com/ayachi-code/javascript-ReactJS#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
