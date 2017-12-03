@@ -1,0 +1,19 @@
+{
+  "name": "react-oefenen",
+  "version": "1.0.0",
+  "description": "coole react example",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayachi-code/javascript-ReactJS.git"
+  },
+  "author": "bilal el ayachi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayachi-code/javascript-ReactJS/issues"
+  },
+  "homepage": "https://github.com/ayachi-code/javascript-ReactJS#readme"
+}
